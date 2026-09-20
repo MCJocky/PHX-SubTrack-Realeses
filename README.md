@@ -80,7 +80,7 @@ Before installing a beta update, create a current backup from **Settings → Cre
 
 ## Languages and appearance
 
-SubTrack supports German, English, and the Android system language. Available appearances include Light, Graphite, Midnight, Deep Black, and System, combined with selectable accent colors and app icons.
+SubTrack is available in German and English. When **System language** is selected, the app uses German on devices set to German and English for all other system languages. Available appearances include Light, Graphite, Midnight, Deep Black, and System, combined with selectable accent colors and app icons.
 
 ## Beta feedback
 
