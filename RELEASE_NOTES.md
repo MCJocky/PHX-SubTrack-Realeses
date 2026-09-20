@@ -22,4 +22,4 @@ Download **`SubTrack.apk`** below and open it on a device running Android 8.0 or
 
 The complete update path was tested with SubTrack 0.9.4 installed. The app detected this 0.9.5 release, displayed the installed and available versions, and provided the correct APK download action.
 
-See the [README](https://github.com/MCJocky/PHX-SubTrack-Realeses#readme) for features, screenshots, installation details, and beta feedback options.
+See the [README](https://github.com/MCJocky/PHX-SubTrack-Releases#readme) for features, screenshots, installation details, and beta feedback options.

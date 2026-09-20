@@ -16,7 +16,7 @@
 
 ## Download
 
-Download the current APK from the [PHX SubTrack 0.9.5 Beta release](https://github.com/MCJocky/PHX-SubTrack-Realeses/releases/tag/v0.9.5).
+Download the current APK from the [PHX SubTrack 0.9.5 Beta release](https://github.com/MCJocky/PHX-SubTrack-Releases/releases/tag/v0.9.5).
 
 The official release file is named **`SubTrack.apk`**. PHX SubTrack requires Android 8.0 (API 26) or newer.
 
@@ -84,7 +84,7 @@ SubTrack is available in German and English. When **System language** is selecte
 
 ## Beta feedback
 
-Use **Settings → Bug Report** inside the app or open a [GitHub issue](https://github.com/MCJocky/PHX-SubTrack-Realeses/issues) if you encounter a problem.
+Use **Settings → Bug Report** inside the app or open a [GitHub issue](https://github.com/MCJocky/PHX-SubTrack-Releases/issues) if you encounter a problem.
 
 ## Release history
 
