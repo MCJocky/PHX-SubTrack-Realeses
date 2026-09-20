@@ -1,3 +1,5 @@
 # PHX SubTrack Releases
 
-Offizielle Android-Releases für den integrierten SubTrack-Updater.
+Official Android releases for the integrated SubTrack updater.
+
+The latest APK is available from the repository's Releases page.
