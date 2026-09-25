@@ -1,5 +1,28 @@
 # Changelog
 
+## 0.9.6 Beta
+
+### Currencies
+
+- Added Kenyan Shilling (KES/KSh) following user feedback.
+- Added Indian Rupee (INR/₹), South African Rand (ZAR/R), Czech Koruna (CZK/Kč), South Korean Won (KRW/₩), and Brazilian Real (BRL/R$).
+- Currency selection changes the display only; stored amounts are not converted.
+- Added a safe Euro fallback for unknown or obsolete saved currency values.
+- Extended backup and restore compatibility to the new currencies.
+- Verified currency presentation throughout the dashboard, budget, subscription cards, charts, reminders, and add/edit dialogs.
+
+### Support and interface
+
+- Added an optional **Support SubTrack** entry under Help linking to the project's PayPal page. Contributions are voluntary and do not unlock features.
+- Removed oversized launcher artwork from the Android startup screen for a cleaner launch.
+
+### Compatibility
+
+- Existing 0.9.5 data and backups remain compatible.
+- No ads, locked features, or Pro version.
+
+[Download 0.9.6 Beta](https://github.com/MCJocky/PHX-SubTrack-Releases/releases/tag/v0.9.6)
+
 ## 0.9.5 Beta
 
 ### Update system and onboarding
