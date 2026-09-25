@@ -1,25 +1,25 @@
-# PHX SubTrack 0.9.5 Beta
+# PHX SubTrack 0.9.6 Beta
 
-PHX SubTrack 0.9.5 is a beta release focused on category management, a clearer subscription overview, onboarding, and the new GitHub update path.
+PHX SubTrack 0.9.6 adds more display currencies, an optional support link, and startup and compatibility improvements.
 
 ## Highlights
 
-- Manage category visibility without deleting subscriptions or category data.
-- Create, edit, reorder, and safely delete custom categories.
-- Search subscriptions by partial name with case-insensitive matching.
-- Use a more compact subscription list with clearer billing information.
-- See the redesigned, non-interactive **Next due** information element.
-- Follow the revised tutorial on first launch or reopen it from Settings.
-- Receive daily GitHub update checks or check manually from Settings.
+- Kenyan Shilling (KES/KSh), added following user feedback.
+- Indian Rupee (INR/₹), South African Rand (ZAR/R), Czech Koruna (CZK/Kč), South Korean Won (KRW/₩), and Brazilian Real (BRL/R$).
+- Optional **Support SubTrack** link under Help, opening the project's PayPal page. Contributions are voluntary; all features remain free.
+- Cleaner Android startup screen without the oversized launcher artwork.
+- Safe Euro fallback for unknown stored currency values and updated backup/restore support for the new currencies.
+
+## Compatibility
+
+Choosing a currency changes the amount display only; it does not convert or alter stored values. Existing 0.9.5 app data and backups remain compatible.
 
 ## Installation
 
-Download **`SubTrack.apk`** below and open it on a device running Android 8.0 or newer. Android may ask you to allow installation from your browser or file manager.
+Download **[SubTrack.apk](https://github.com/MCJocky/PHX-SubTrack-Releases/releases/download/v0.9.6/SubTrack.apk)** from the [0.9.6 Beta release](https://github.com/MCJocky/PHX-SubTrack-Releases/releases/tag/v0.9.6). Android 8.0 or newer is required.
 
 > This is a beta build. Create a backup from **Settings → Create backup** before updating.
 
-## Updater verification
+**SHA-256:** `786891366C12DC987B98B753B4B6ABB13274A1F08316A9521D24B6C64B308ABD`
 
-The complete update path was tested with SubTrack 0.9.4 installed. The app detected this 0.9.5 release, displayed the installed and available versions, and provided the correct APK download action.
-
-See the [README](https://github.com/MCJocky/PHX-SubTrack-Releases#readme) for features, screenshots, installation details, and beta feedback options.
+See the [README](README.md) for features, screenshots, and feedback options, or [CHANGELOG.md](CHANGELOG.md) for the version history.
