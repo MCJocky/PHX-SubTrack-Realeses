@@ -7,21 +7,23 @@
 
 <p align="center">
   <img alt="Beta" src="https://img.shields.io/badge/status-beta-f59e0b">
-  <img alt="Version 0.9.5" src="https://img.shields.io/badge/version-0.9.5-ec2b7a">
+  <img alt="Version 0.9.6" src="https://img.shields.io/badge/version-0.9.6-ec2b7a">
   <img alt="Android 8.0+" src="https://img.shields.io/badge/Android-8.0%2B-3ddc84">
 </p>
 
 > [!IMPORTANT]
-> PHX SubTrack 0.9.5 is a beta release. Back up your data regularly while the app is still being tested.
+> PHX SubTrack 0.9.6 is a beta release. Back up your data regularly while the app is still being tested.
 
 ## Download
 
-Download the current APK from the [PHX SubTrack 0.9.5 Beta release](https://github.com/MCJocky/PHX-SubTrack-Releases/releases/tag/v0.9.5).
+Download **[SubTrack.apk (0.9.6 Beta)](https://github.com/MCJocky/PHX-SubTrack-Releases/releases/download/v0.9.6/SubTrack.apk)** or visit the [0.9.6 Beta release page](https://github.com/MCJocky/PHX-SubTrack-Releases/releases/tag/v0.9.6).
 
 The official release file is named **`SubTrack.apk`**. PHX SubTrack requires Android 8.0 (API 26) or newer.
 
 ## Features
 
+- Multiple display currencies, including Kenyan Shilling (KES/KSh), Indian Rupee (INR/₹), South African Rand, Czech Koruna, South Korean Won, and Brazilian Real. Selecting a currency does not convert stored amounts.
+- Optional voluntary **Support SubTrack** link under Help; no features are locked behind donations.
 - Monthly and yearly subscription totals
 - Configurable monthly budget with remaining balance
 - Search by partial subscription name, independent of capitalization
@@ -65,7 +67,7 @@ Additional screenshots are available in the [`screenshots`](screenshots) directo
 
 ## Installation
 
-1. Download **`SubTrack.apk`** from the 0.9.5 Beta release.
+1. Download **`SubTrack.apk`** from the 0.9.6 Beta release using the link above.
 2. Open the downloaded APK on your Android device.
 3. If Android asks, allow your browser or file manager to install apps from this source.
 4. Complete the installation and open SubTrack.
