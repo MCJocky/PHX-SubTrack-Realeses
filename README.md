@@ -32,7 +32,7 @@ The official release file is named **`SubTrack.apk`**. PHX SubTrack requires And
 - Safe reassignment when deleting a custom category that contains subscriptions
 - Monthly, quarterly, half-yearly, and yearly billing intervals
 - Upcoming billing overview and optional reminders
-- German, English, and system language support
+- App languages: German and English
 - Multiple accent colors, appearances, and app icons
 - JSON backup and restore plus CSV export
 - First-launch tutorial that can be reopened from Settings
