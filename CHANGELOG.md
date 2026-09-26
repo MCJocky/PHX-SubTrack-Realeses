@@ -1,5 +1,40 @@
 # Changelog
 
+## 0.9.7 Beta
+
+### Phone and tablet support
+
+- Added adaptive layouts for compact, medium, and expanded window widths.
+- Added portrait and landscape tablet layouts to the same APK used on phones.
+- Kept phones in portrait orientation where Android permits it.
+- Kept tablet rotation independent from the current app-window width, including narrow split-screen windows.
+- Added bottom navigation for portrait tablets and side navigation for wider landscape layouts.
+
+### Overview and navigation
+
+- Split the app into four direct destinations: Overview, Subscriptions, Budget, and Settings.
+- Removed visible page-by-page scrolling when selecting a distant navigation destination.
+- Redesigned the overview around the distribution chart, category totals, and next-due information.
+- Made monthly costs and available budget optional overview cards that can be shown, hidden, and reordered.
+- Added tappable category totals that highlight the matching donut segment without leaving the overview.
+- Added compact next-due presentation and safe truncation for long subscription names.
+- Refined header alignment, navigation spacing, and the PHX SubTrack wordmark gradient.
+
+### Search, themes, and updates
+
+- Changed subscription search to match the beginning of a name or any word, so `Ne` finds Netflix without matching Home Internet.
+- Refined the light appearance with the new PHX Frost palette, clearer surfaces, borders, shadows, and input fields.
+- Added visible feedback after automatic and manual update checks.
+- Added the last successful update-check time in Settings, shown as a time for the first 24 hours and as a date afterward.
+- Added a public GitHub release-feed fallback when the anonymous API limit is unavailable.
+
+### Compatibility and validation
+
+- Preserved subscriptions, budgets, currencies, categories, reminders, backup files, CSV export, and updater behavior.
+- Preserved the selected page, search text, category filter, useful scroll positions, open dialogs, and unsaved form input across rotation and resizing.
+- Verified the app on phone and tablet emulators in portrait and landscape, with large text, long German labels, full lists, dialogs, and state restoration.
+- Requires Android 8.0 or newer.
+
 ## 0.9.6 Beta
 
 ### Currencies
